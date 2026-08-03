@@ -16,7 +16,7 @@ This dashboard transforms raw data into meaningful business insights using **Pow
 
 ## 🏠 Dashboard Overview (Page 1)
 
-![Dashboard Overview](Images/dashboard-page1.png)
+![Dashboard Overview](Images/dashboard1.png)
 
 ### This page includes:
 
