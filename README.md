@@ -40,7 +40,7 @@ This dashboard transforms raw data into meaningful business insights using **Pow
 
 ## 📊 Advanced Analytics (Page 2)
 
-![Advanced Analytics](Images/dashboard-page2.png)
+![Advanced Analytics](Images/Dashboard-page2.png)
 
 ### This page includes:
 
